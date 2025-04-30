@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="300" src="https://github.com/guigas2407/foto-de-perfil/blob/main/foto-perfil-github2.jpg?raw=true"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="javascript logo"  />
   <img width="16" />
@@ -43,10 +39,18 @@
 
 ###
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/guigas2407/count.svg?"  />
+</div>
+
+###
+
+<img align="right" height="285" src="https://github.com/guigas2407/foto-de-perfil/blob/main/foto-perfil-github2.jpg?raw=true"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guigas2407&radius=16&theme=react&area=true&order=5&hide_border=false" height="285" alt="activity-graph graph"  />
 </div>
 
 ###
